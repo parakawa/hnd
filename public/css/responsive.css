@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    section.promo .promo-content h2 {
+      font-weight: normal;
+      font-size: 3em;
+      width: 100%;
+    }
+
+    .direction img {
+      width: 100%;
+    }
+
+    .productos img {
+      width: 100%;
+    }
+
+    .btn-hinode {
+      padding: 4%;
+      margin-top: 10%;
+      width: 100%;
+    }
+
+  }
